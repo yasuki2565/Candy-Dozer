@@ -1,1 +1,1 @@
-# Candy-Dozer
+# CandyDozer
